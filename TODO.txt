@@ -2,7 +2,7 @@ Lista de Funções
 
 -CRUD de Noticia
 -Lista Ordenada de Noticias(Data)
--Mostrar Lista(Titulo e Subtitulo)
+-Mostrar Lista(Titulo e Subtitulo| Quantidade por pagina)
 -Pesquisa por (Palavra-chave)
 -Filtro (Tag's)
 
